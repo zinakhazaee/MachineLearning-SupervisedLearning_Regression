@@ -2,4 +2,8 @@ XGBRegressor
 
 prediction of House's price 
 
-Dataset includes 1460 Samples and  80 Featutres.
+The dataset includes 1460 Samples and  80 Features.
+
+Features:
+'OverallQual', 'GrLivArea', 'GarageCars', 'GarageArea', 'TotalBsmtSF', 'YearBuilt', '1stFlrSF', 'MSSubClass', 'FullBath', 'GarageYrBlt', 'YearRemodAdd', 'TotRmsAbvGrd', 'LotFrontage',
+'2ndFlrSF', 'LotArea','Fireplaces', 'OpenPorchSF', 'BsmtFinSF1', 'BsmtUnfSF', 'OverallCond','WoodDeckSF'.
