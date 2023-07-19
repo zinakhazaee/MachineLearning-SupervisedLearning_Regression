@@ -1,3 +1,5 @@
 XGBRegressor
 
 prediction of House's price 
+
+Dataset includes 1460 Samples and  80 Featutres.
